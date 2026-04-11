@@ -135,8 +135,6 @@ The notebook contains several hands-on exercises marked with `???`:
 
 ---
 
----
-
 ## 📖 Further Reading
 
 - [Python Official Tutorial](https://docs.python.org/3/tutorial/)
