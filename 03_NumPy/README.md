@@ -16,7 +16,7 @@ This folder contains **three notebooks** that together provide a complete unders
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Contents 
 
 - [Notebook 1 — NumPy 1D Arrays](#notebook-1--numpy-1d-arrays)
 - [Notebook 2 — NumPy 2D Arrays](#notebook-2--numpy-2d-arrays)
