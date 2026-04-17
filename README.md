@@ -1,4 +1,4 @@
-# 📊 Data Science Peer Tutoring
+# 📊 Data Science Peer Tutoring 
 
 Welcome to the **Data Science Peer Tutoring** repository! This is your one-stop resource for lecture notes, Python notebooks, and learning materials covered in our tutoring sessions.
 
