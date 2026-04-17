@@ -16,7 +16,7 @@ A collection of lecture slides, reference documents, and a hands-on notebook cov
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Contents 
 
 1. [ML Models & Key Concepts](#-ml-models--key-concepts)
    - [What is an ML Model?](#what-is-an-ml-model)
