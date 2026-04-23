@@ -6,7 +6,7 @@ A collection of lecture slides, reference documents, and a hands-on notebook cov
 
 ## 📂 Files
 
-| File | Type | Description |
+| File | Type | Description | 
 |------|------|-------------|
 | `ML_Models_Model_Evaluation_Methods_Overfitting_Underfitting_Bias_variance_Loss_function_Hyperparameter_and_Gradient_Descent.pptx` | Slides | Core ML theory: model types, validation, overfitting, bias-variance, loss functions, and gradient descent |
 | `Linear_Regrssion.pptx` | Slides | Introduction to regression analysis and linear regression concepts |
