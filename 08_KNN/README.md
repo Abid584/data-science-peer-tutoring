@@ -5,7 +5,7 @@ A complete set of lecture slides and hands-on notebooks covering the **K-Nearest
 ---
 
 ## 📂 Files
-
+ 
 | File | Type | Description |
 |------|------|-------------|
 | `KNN.pptx` | Slides | KNN algorithm overview with a step-by-step numerical example (weight classification) |
