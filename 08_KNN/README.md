@@ -14,7 +14,7 @@ A complete set of lecture slides and hands-on notebooks covering the **K-Nearest
 | `KNN_and_Tree.ipynb` | Notebook | Model comparison — Decision Tree, KNN, and Linear Regression on the Glass dataset using cross-validation |
 
 ---
-
+ 
 ## 📋 Table of Contents
 
 1. [What is KNN?](#-what-is-knn)
