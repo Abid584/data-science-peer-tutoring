@@ -5,7 +5,7 @@ This folder contains **three notebooks** that together provide a complete unders
 ---
 
 ## 📂 Notebooks in This Folder
-
+ 
 | Notebook | Description |
 |----------|-------------|
 | `Numpy1D.ipynb` | 1D arrays — creation, slicing, operations, and math functions |
