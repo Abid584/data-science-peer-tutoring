@@ -7,7 +7,7 @@ Welcome to the **Data Science Peer Tutoring** repository! This is your one-stop 
 ## 📚 Topics Covered
  
 ### 🐍 Python Fundamentals 
-- Variables, data types, and operators
+- Variables, data types, and operators 
 - Control flow (if/else, loops)
 - Functions and modules
 - Lists, tuples, dictionaries, and sets
