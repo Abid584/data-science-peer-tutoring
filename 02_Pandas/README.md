@@ -8,7 +8,7 @@ A hands-on beginner-friendly notebook that teaches the core concepts of **Pandas
 
 1. [What is Pandas?](#1-what-is-pandas)
 2. [What is Data Wrangling?](#2-what-is-data-wrangling)
-3. [Loading Data](#3-loading-data)
+3. [Loading Data](#3-loading-data) 
 4. [Exploring the Dataset](#4-exploring-the-dataset)
 5. [Handling Missing Values](#5-handling-missing-values)
 6. [Selecting Data — iloc vs loc](#6-selecting-data--iloc-vs-loc)
